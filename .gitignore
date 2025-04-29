@@ -1,0 +1,11 @@
+node_modules
+dist-electron
+release
+dist
+.env
+*.env.*
+.DS_Store
+.cursor
+/build
+memory-bank
+/memory-bank
