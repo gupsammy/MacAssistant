@@ -1,5 +1,5 @@
 {
-  "name": "interview-coder",
+  "name": "mac-assistant",
   "version": "1.0.0",
   "main": "./dist-electron/main.js",
   "scripts": {
@@ -13,8 +13,8 @@
     "watch": "tsc -p electron/tsconfig.json --watch"
   },
   "build": {
-    "appId": "interview.coder.id",
-    "productName": "Interview Coder",
+    "appId": "mac.assistant.id",
+    "productName": "Mac Assistant",
     "files": [
       "dist/**/*",
       "dist-electron/**/*",
@@ -51,8 +51,8 @@
     },
     "publish": {
       "provider": "github",
-      "owner": "ibttf",
-      "repo": "interview-coder"
+      "owner": "gupsammy",
+      "repo": "macassitant"
     }
   },
   "keywords": [],
