@@ -56,7 +56,7 @@
     }
   },
   "keywords": [],
-  "description": "An invisible desktop application to help you pass your technical interviews.",
+  "description": "An invisible desktop application.",
   "devDependencies": {
     "@types/color": "^4.2.0",
     "@types/diff": "^6.0.0",
